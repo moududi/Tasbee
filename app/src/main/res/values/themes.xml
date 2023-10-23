@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TosbbiCouter" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">#2196F3</item>
+        <item name="colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="colorPrimaryVariant">@android:color/holo_blue_bright</item>
+        <item name="colorSecondary">@android:color/holo_blue_bright</item>
+        <item name="colorSecondaryVariant">@android:color/holo_blue_bright</item>
+|
+    </style>
+
+    <style name="Theme.TosbbiCouter" parent="Base.Theme.TosbbiCouter" />
+</resources>
